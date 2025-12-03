@@ -1,12 +1,16 @@
-Welcome to my STAT 441 - Classification Final Project for Fall 2025.
+Welcome to our submission for STAT 441 - Classification Final Project (Fall 2025).
 Group members include:
 * Darren Alexander Lam Kin Teng
 * Ojus Udagani
 * Raghuv Bansal
-  
-This GitHub repository contains my submission for the final project on my model implementation. It holds the project notebook, coded in Python, and the dataset `astro_dataset_maxia`, gathered from Kaggle (Link below).
 
-The task was to develop a CNN model to predict 12 astrophysical classes. I implement a pre-trained model, VGG16, and use transfer learning for the project's purpose.
+The goal of this project was to implement 3 CNN models to predict 12 astrophysical classes based on image data, where each group member was responsible for a model implementation. The models implemented include VGG16, ResNet50 and a custom-built CNN.
+
+This GitHub repository contains each member's Python Notebook named in the following format `ModelName_Member`. 
+
+Due to the data folder being too large, the dataset `astro_dataset_maxia` was not uploaded to the repo and can be downloaded from Kaggle (Link below).
+
+In each notebook, the `astro_dataset_maxia` folder was downloaded from Kaggle and uploaded to our personal Google Drive. The Google Drive folder was then used as the data source for the project. 
 
 Link to Kaggle dataset:
 https://www.kaggle.com/datasets/engeddy/astrophysical-objects-image-dataset/data
