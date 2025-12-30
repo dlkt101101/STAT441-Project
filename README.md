@@ -12,5 +12,7 @@ Due to the data folder being too large, the dataset `astro_dataset_maxia` was no
 
 In each notebook, the `astro_dataset_maxia` folder was downloaded from Kaggle and uploaded to our personal Google Drive. The Google Drive folder was then used as the data source for the project. 
 
+The final project report is also uploaded for a full documentation of the model building process, a discussion on the results and improvements to the project.
+
 Link to Kaggle dataset:
 https://www.kaggle.com/datasets/engeddy/astrophysical-objects-image-dataset/data
