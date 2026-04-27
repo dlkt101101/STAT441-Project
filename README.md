@@ -1,4 +1,3 @@
-Welcome to our submission for STAT 441 - Classification Final Project (Fall 2025).
 Group members include:
 * Darren Alexander Lam Kin Teng
 * Ojus Udagani
